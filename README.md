@@ -1,9 +1,7 @@
 # UHDPromer 
 
 This is the official PyTorch codes for the paper  
-[Implicit Neural Discrimination-Prompted
-Transformers for Efficient UHD Image
-Restoration and Enhancement]  
+[Neural Discrimination-Prompted Transformers for Efficient UHD Image Restoration and Enhancement]  
 [Cong Wang](https://scholar.google.com/citations?user=0DrHHRwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io/), Liyan Wang, Wei Wang, and Yang Yang
 
 

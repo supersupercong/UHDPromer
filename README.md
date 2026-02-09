@@ -5,7 +5,8 @@ This is the official PyTorch codes for the paper
 [Cong Wang\*](https://supercong94.wixsite.com/supercong94), Jinshan Pan, Liyan Wang, Wei Wang\*, and Yang Yang    
 <!--(\* indicates equal contribution) -->
 
-![framework_img](framework_overview.png)
+<!--
+![framework_img](framework_overview.png) -->
 
 <!--
 Here are some example results on test images from [BSRGAN](https://github.com/cszn/BSRGAN) and [RealESRGAN](https://github.com/xinntao/Real-ESRGAN).

@@ -20,11 +20,11 @@ Here are some example results on test images from [BSRGAN](https://github.com/cs
 ```
 # git clone this repository
 git clone https://github.com/supersupercong/UHDPromer.git
-cd FeMaSR 
+cd UHDPromer 
 
 # create new anaconda env
-conda create -n femasr python=3.8
-source activate femasr 
+conda create -n uhdpromer python=3.8
+source activate uhdpromer 
 
 # install python dependencies
 pip3 install -r requirements.txt

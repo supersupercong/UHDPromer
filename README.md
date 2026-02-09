@@ -44,7 +44,7 @@ python setup.py develop
 bash train.sh
 ```
 
-### Test Model
+### Test model
 
 
 ```
@@ -52,7 +52,7 @@ bash test.sh
 ```
 
 ### Visual results
-[UHD-LL&UHD-Haze&UHD-Blur&LOL-GoPro-SOTS]()
+[UHD-LL&UHD-Haze&UHD-Blur&LOL-GoPro-SOTS](https://drive.google.com/drive/folders/1rJ2iNrOIXh6StHDX5I8S1VkWMSwBNa3U)
 
 
 ## Citation
